@@ -4,7 +4,7 @@ The data were collected from the Taiwan Economic Journal for the years 1999 to 2
 
 ![image](https://github.com/Kmohamedalie/Taiwenese-Bankruptcy-Prediction/assets/63104472/e9e35778-f316-49f7-a55e-93443d39c9bb)
 
-**Task:** is to predict weather a bank will go bankrupt or not (classical classification Task). <br>
+**Task:** is to predict whether a bank will go bankrupt or not (classical classification Task). <br>
 **Data:** <a href="https://archive.ics.uci.edu/dataset/572/taiwanese+bankruptcy+prediction">UCI Machine Learning</a>,   <a href="https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction">Kaggle</a> <br>
 **Notebook:** [Link](https://github.com/Kmohamedalie/Taiwenese-Bankruptcy-Prediction/blob/master/Notebook/Taiwan%20Bankruptcy%20-%20SnapML(Random%20Forest%20vs%20Boosting%20Machine).ipynb)
 
