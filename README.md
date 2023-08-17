@@ -6,9 +6,10 @@ The data were collected from the Taiwan Economic Journal for the years 1999 to 2
 
 **Task:** is to predict whether a bank will go bankrupt or not (classical classification Task). <br>
 **Data:** <a href="https://archive.ics.uci.edu/dataset/572/taiwanese+bankruptcy+prediction">UCI Machine Learning</a>,   <a href="https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction">Kaggle</a> <br>
-**Notebook:** [Link](https://github.com/Kmohamedalie/Taiwenese-Bankruptcy-Prediction/blob/master/Notebook/Taiwan%20Bankruptcy%20-%20SnapML(Random%20Forest%20vs%20Boosting%20Machine).ipynb)
 
-**Complete JupyterNotebook:** the dataset is imbalanced and [SMOTE](https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html) wasn't apply.
+**Complete JupyterNotebook:** [Link](https://github.com/Kmohamedalie/Taiwenese-Bankruptcy-Prediction/blob/master/Notebook/Taiwan%20Bankruptcy%20-%20SnapML(Random%20Forest%20vs%20Boosting%20Machine).ipynb)
+
+**Dataset:** the dataset is imbalanced and [SMOTE](https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html) wasn't apply.
 
 ### Metrics achieved
 **F1-score:** 96.18%
